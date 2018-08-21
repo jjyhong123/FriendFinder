@@ -1,0 +1,89 @@
+var friends =
+
+[{
+    "name":"Onezy",
+    "photo":"https://r.hswstatic.com/w_907/gif/tesla-cat.jpg",
+    "scores":[
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+  },
+
+  {
+    "name":"Toozey",
+    "photo":"https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg",
+    "scores":[
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+  },
+
+  {
+    "name":"Threezy",
+    "photo":"https://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg",
+    "scores":[
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+  },
+
+  {
+    "name":"Forzey",
+    "photo":"https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg",
+    "scores":[
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+  },
+
+  {
+    "name":"Fivey",
+    "photo":"https://www.petmd.com/sites/default/files/exercising-cats.jpg",
+    "scores":[
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+  }
+];
+
+module.exports = friends;
